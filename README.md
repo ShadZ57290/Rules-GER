@@ -61,4 +61,4 @@ It is strictly prohibited to share or distribute keys or serial numbers for soft
 
 All Channels will have pinned messages explaining what they are there for and how everything works. If you don’t understand something, feel free to ask!
 
-**Your presence in this server implies accepting these rules, including all further changes. These changes might be done at any time without notice, it is your responsibility to check for them.**
+**Your presence in this server implies accepting these rules, including all further changes. These changes might be done at any time without notice, it is your responsibility to check for them.*
